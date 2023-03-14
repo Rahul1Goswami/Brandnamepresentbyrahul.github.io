@@ -96,9 +96,12 @@ body {
     .header-text-box h1{
         font-size:40px;
     }
+    .navition-bar .navLinks li{
+        margin:5px;
+    }
 }
 
-@media (max-width:450px) {
+@media (max-width:560px) {
     .navition-bar {
         height: 350px;
         transition: 0.5s;
